@@ -1,7 +1,7 @@
 # 모든 코드에 근거를 두고 싶은 개발자, 전종현 입니다!
 ### Hi!  I'm JongHyeon who vowed never to write meaningless code!
-- Email   hoogom88@gmail.com
-- Blog   
+- Email   &nbsp;&nbsp;hoogom88@gmail.com
+- Blog    &nbsp;&nbsp;&nbsp;[ve-a-developer.notion.site](https://ve-a-developer.notion.site/s-Knowtion-5bdb291d0a3a45e7951e3592976b15ad)
 
 
 <br/>
